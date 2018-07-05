@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Indice'/>
+        <page name='Variaveis e Constantes'/>
+        <page name='Operadores'/>
+        <page name='Tuple'/>
+        <page name='Array'/>
+        <page name='Set'/>
+        <page name='Dictionary'/>
+        <page name='Lacos de repeticao'/>
+        <page name='Switch'/>
+        <page name='Enum'/>
+        <page name='ClassAndStruct'/>
+        <page name='Protocol'/>
+    </pages>
+</playground>
