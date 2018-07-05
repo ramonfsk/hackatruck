@@ -1,0 +1,25 @@
+{
+    "name": "ibm-hackatruck",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Simple CRUD Server",
+    "main": "server.js",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "IBM",
+    "license": "MIT",
+    "scripts": {
+        "test": "",
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "4.15.3",
+        "cfenv": "1.0.4",
+        "cloudant": "1.8.0",
+        "body-parser": "1.17.2",
+        "fs-sync": "1.0.3",
+        "properties-parser": "0.3.1"
+    }
+}
